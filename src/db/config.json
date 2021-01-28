@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "mcraepeavy",
+    "password": null,
+    "database": "new_covid_shots",
+    "host": "127.0.0.1",
+    "dialect": "postgresql",
+    "port": 5432
+  },
+  "test": {
+    "username": "mcraepeavy",
+    "password": null,
+    "database": "new_covid_shots",
+    "host": "127.0.0.1",
+    "dialect": "postgresql",
+    "port": 5432
+  },
+  "production": {
+    "username": "mcraepeavy",
+    "password": null,
+    "database": "new_covid_shots",
+    "host": "127.0.0.1",
+    "dialect": "postgresql",
+    "port": 5432
+  }
+}
